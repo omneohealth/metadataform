@@ -17,3 +17,4 @@ This `XLSform` can be uploaded to a remote server-based ODK Aggregator or other 
 * Ernest Guevarra
 
 ## License
+MIT License
