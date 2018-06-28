@@ -1,6 +1,6 @@
 # metadataform
 
-`XLSForm` for OMNeoHealth's metadata collection tool for us in [Open Data Kit](https://opendatakit.org). This tool is for use by OMNeoHealth data collectors in gathering information on data sources found on maternal and neonatal health in Papua New Guinea.
+`XLSForm` for OMNeoHealth's metadata collection tool for use in [Open Data Kit](https://opendatakit.org). This tool is for use by OMNeoHealth data collectors in gathering information on data sources found on maternal and neonatal health in Papua New Guinea.
 
 ## Usage
 
